@@ -1,0 +1,373 @@
+Chapter 0002:1: Hot Discussions Caused by 30-Second Special Effects
+
+
+
+The next morning, in the Chairman's office, Li Bufan sat upright, thinking that it seemed like there was something he hadn't dealt with.
+
+A moment later, Li Bufan thought of the plan for Aurora Special Effects Software from yesterday.
+
+Then he thought, he had instructed alpha later, and he didn't know how the progress was.
+
+Li Bufan opened his phone and summoned alpha by voice.
+
+"alpha, are you there?"
+
+As usual, alpha responded on time.
+
+"Yes, Master. Is there anything you need?"
+
+"The Aurora Special Effects Software I asked you to design and create yesterday, is it ready?"
+
+"Master, it's ready. I'm sending it to your computer desktop now, please wait, the download will take 4 minutes."
+
+"Okay. Alright, I'll wait."
+
+Four minutes later, Li Bufan indeed saw the compressed package for Aurora Special Effects Software.
+
+After decompression was complete, what appeared before his eyes was the installation program.
+
+After installation, when he opened the software, a 3S logo representing Zhi Gao Software Company appeared, followed by a sea of light, which was the aurora of nature.
+
+Subsequently, the software finished launching, and similar to other special effects software, operational panels appeared on the sides, with a large virtual 3D space in the middle, waiting for users to explore and use.
+
+Li Bufan saw a large number of buttons and various strange parameters, covering all aspects of the engine, which made Li Bufan, who had never used special effects software before, feel very uncomfortable.
+
+"Um, alpha. I don't know how to use it, there are too many buttons. Can you teach me?"
+
+Li Bufan was helpless, so he had to swallow his pride and ask the artificial intelligence, hoping alpha could teach him.
+
+"Yes, Master.
+
+Master, I have taken control of your mouse and virtual keyboard.
+
+In a moment, I will perform the operations, please watch carefully from the side, Master.
+
+Next, I will demonstrate the simplest special effect from "Let the Bullets Fly".
+
+That is, after the bullet is fired from the pistol, the sonic boom shockwave generated when the bullet breaks the sound barrier, as well as the slow-motion flight trajectory of the bullet."
+
+"Okay, alright. I understand, you can start operating."
+
+"Okay, Master.
+
+First, you can find the models of the pistol and the bullet in the free public library.
+
+And import them into your workspace, which is the blank virtual 3D space on the screen.
+
+Then, import the environment model, here, I choose the simplest street block.
+
+After that, find the special effect, such as sonic boom, and make some modifications and settings based on this effect, then bind the special effect to the bullet.
+
+Then set the previous frames to fire the gun at the entrance of the street, and according to the linkage event between the pistol and the bullet, the bullet flies out.
+
+And around the bullet, there are circles of ripples, which are the shockwave effects that occur when the bullet exceeds the speed at which sound travels in the air, creating a sonic boom.
+
+For slow motion, you can lengthen those action frames, which is to expand the time, from a flight that takes a few seconds, to several minutes.
+
+Finally, the entire slow-motion special effect from firing the gun to the bullet being launched is complete."
+
+"Okay, alright. alpha, you can start operating, don't go too fast, I'm watching carefully."
+
+"Yes, Master. I'm starting."
+
+Immediately after, alpha began to control Li Bufan's computer.
+
+He saw the cursor move to a button, and the purpose would be explained below the button.
+
+After clicking, he entered some interfaces, and then modified some parameters from them.
+
+After that, he found the free model library, and then searched for the models of the gun and the bullet from it...
+
+Li Bufan watched alpha's operation, because the operation speed was not fast, and each time an operation was performed, its specific function and purpose would be displayed on the screen.
+
+Just like that, after alpha finished operating, Li Bufan also began to explore on his own.
+
+It took him almost three times the time to complete this special effect again.
+
+By this point, Li Bufan had basically understood and could use this special effects software.
+
+Next, in the company group chat, he summoned a group of artists and some programmers who had been recruited before, to the conference room on the third floor for a meeting.
+
+At first, everyone was very confused after receiving the notification.
+
+Some people were thinking, were they fired, or for what reason?
+
+Because to be honest, most of the functions of Smart Mutual Translation were basically completed by alpha for them.
+
+Besides that, at most they would rack their brains to think if there were any new ideas that could be added to it.
+
+But after nearly half a month of additions and improvements, the functions have been perfected, and there are not many places that need to be modified.
+
+Therefore, they usually had nothing to do, and instead would go to video websites to watch videos. Or download PC games and play games together.
+
+Li Bufan actually knew all of this.
+
+However, the purpose of recruiting these people in the first place was to attract attention, not as real labor.
+
+But now it's different, now there is Aurora Special Effects Software, although this software can greatly reduce the working hours of employees and improve work efficiency.
+
+However, it still requires a team to cooperate, and labor is still very much needed.
+
+Therefore, Li Bufan approached them to make them familiar with this software.
+
+On the one hand, they would provide suggestions as internal testers, and on the other hand, they would begin to familiarize themselves with and master the special effects software, preparing for future special effects business.
+
+As for software development, Li Bufan would also have alpha prepare the corresponding development interfaces, and then have the ten people who performed best in the Smart Mutual Translation improvement work to carry out the subsequent development work.
+
+The rest of the people, Li Bufan planned to have them all become Aurora Special Effects Artists.
+
+Everyone took their seats one after another, looking at Li Bufan sitting at the head, some were full of excitement, some were full of disappointment, and some were very confused.
+
+Li Bufan looked at the large group of people sitting around, some of whom were programmers he had met during previous meetings.
+
+There were also some people he had occasionally met, and because of their relatively unique appearance, Li Bufan had some impression.
+
+As for the other new employees, it was the first time Li Bufan had met them.
+
+Li Bufan looked at everyone and spoke slowly, in a deep voice.
+
+"Everyone, I am the CTO of Zhi Gao Software, Li Bufan.
+
+I know some of you have met me, and some of you haven't.
+
+Also, for a period of time before, you indeed didn't have too much work content, many people were slacking off, playing games and watching videos during work hours, I know all of this, and I won't blame you.
+
+But today, everyone present here, I am going to assign you new tasks and work, and after this, you may not have time to entertain yourselves during work hours.
+
+Alright, today, I have invited everyone here mainly to prepare for our company's next product."
+
+"This product is called Aurora Special Effects, yes, you didn't hear wrong.
+
+This is industrial software, to be precise, it is very suitable for the film and television industry.
+
+I believe everyone knows about Hollywood's special effects, aren't the shots and special effects in it very dazzling and eye-catching?
+
+However, I want to tell everyone, this is nothing, what they can do, our Aurora Special Effects can also do.
+
+And what they cannot do, our Aurora Special Effects may also be able to do."
+
+"Aurora Special Effects, this is software specifically for making special effects.
+
+There are two purposes for inviting you here today.
+
+For programmers, your main work in the early stage is to try it out and find if there is room for improvement.
+
+For some of the programmers, due to their outstanding performance in Smart Mutual Translation, they will be responsible for the subsequent development work of Aurora Special Effects this time.
+
+Specific development tools and guidelines will be provided to you later.
+
+As for the other programmers who performed averagely, my suggestion to you is to work with the artists and transfer to Aurora Special Effects.
+
+Artists, don't mind the programmers coming in, it won't interfere with your work or affect your aesthetics.
+
+Because, in this special effects software, besides model design, there are many places that pure artists cannot handle.
+
+For example, it is more suitable for programmers to handle collision events programmatically, complete complex particle effects with programming, and add intermediate steps such as special effects animation.
+
+In other words, you will cooperate closely in the future to complete the assigned tasks together."
+
+"After this, I will propose to the CEO to split and reorganize everyone according to departmental responsibilities, and some people will be promoted.
+
+Among them, Wang Zixu, who previously served as the leader of the programmer team, performed very well before, and this time you will be the head of the software development department, with your salary doubled and bonuses doubled.
+
+Wang Zixu, the subsequent development of Aurora Special Effects, as well as the supervision and improvement of Smart Mutual Translation, will still be left to you to handle.
+
+You can add an additional 3-5 people to your development team, in addition to the ten people I designated, to work on software development.
+
+The rest of the people will be planned into the special effects department in the future, and outstanding employees will be promoted, and even become the head of the special effects department."
+
+At this time, Wang Zixu was very excited to hear Li Bufan praise him and give him a promotion and raise.
+
+He felt like a swift horse meeting a discerning eye, and his favorability and loyalty to Li Bufan increased significantly.
+
+Then, Li Bufan gave a series of appointments and work arrangements.
+
+After everyone went back, they started handing over their work and prepared to start experimenting with the new special effects software tomorrow.
+
+...
+
+After the meeting ended, Li Bufan sat in the office and thought of a serious problem.
+
+It seemed that his special effects software had not yet included anti-piracy and payment mechanisms, nor had it included a software production interface to facilitate subsequent development by programmers.
+
+Therefore, Li Bufan quickly contacted the remote alpha.
+
+"alpha, are you there? The Aurora Special Effects you made for me is quite good.
+
+However, it seems you forgot to include anti-piracy mechanisms similar to Smart Mutual Translation, payment mechanisms, and production interface APIs, etc.
+
+How long do you think these will take to complete?"
+
+"Master, I'm here. These functions can be completed in 3 hours.
+
+You didn't write down these functions on paper before, I was acting according to your instructions.
+
+I see you are very enthusiastic about these functions, would you like to set them as default options?
+
+This way, for future software development, if you forget to specify them in the requirements, I will remind you, how about that?"
+
+"Hmm, okay, very good, let's do that."
+
+"By the way, Master, you haven't told me the specific details of the payment mechanism for the payment? Is it the same payment mechanism as Smart Mutual Translation?"
+
+"Uh, sorry, I forgot.
+
+How about this, you check the charging methods of the most top-notch industrial special effects production software currently, and then use that method as a basis for improvement."
+
+"Hmm, okay, Master, I have no problem here. Is there anything else you would like to instruct, Master?"
+
+"Hmm, oh yes, I have an idea, can you make a 30-second promotional video?
+
+It's just some grand and magnificent large-scale special effects.
+
+Of course, it must be made with our Aurora Special Effects, don't create it out of thin air, otherwise it will be difficult to explain later."
+
+"Hmm, okay, Master, no problem. Are you referring to me simulating a video of using Aurora Special Effects software to produce 30 seconds of special effects? Do you want to first publicize the 30-second special effects to cause a sensation, and then release the full version of how to use Aurora Special Effects to produce the video?"
+
+"Hmm, exactly. alpha, you are getting smarter and smarter."
+
+"Hehe, thank you for the compliment, Master.
+
+However, may I ask, Master, what kind of large-scale special effects do you want to make?"
+
+"Hmm, that is a problem, let me think.
+
+Then let's choose the special effects of giant ships and cannons bombarding each other in Star Wars.
+
+From the internal holographic operation of the starship, to the firing of various weapons, and then to the operation of the energy shield, you can handle these as you see fit.
+
+In short, make people feel immersive, make people's blood boil when they watch it, and have a feeling of wanting to personally control the warship, that's enough."
+
+"Yes, Master. This 30-second special effects video, along with the software operation simulation video, will take approximately 3 minutes and 17 seconds of computation in total."
+
+"Hmm, okay, I'll wait a moment."
+
+A moment later, the 30-second video appeared on Li Bufan's computer desktop.
+
+Next to it was the 43-minute video of Aurora Special Effects producing the 30-second video, which was still loading.
+
+Li Bufan opened the 30-second video and was shocked.
+
+These special effects were too grand, too sci-fi.
+
+The first thing that came into view was a rolling string of bilingual Chinese and English subtitles, describing the background story of this Star Wars.
+
+Then the scene switched to a meeting in the starship command bridge, where the command headquarters issued the order for battle.
+
+Everyone accepted the order, saluted, and one by one disappeared like particles, being teleported to their respective warships.
+
+Immediately following, the scene shifted to one of the warship pilots.
+
+First, his body was teleported back to the warship like particle recombination.
+
+Then he spread his hands, and the nanobot exoskeleton armor covered his body like a fluid.
+
+This was because a spatial jump would be performed next for accelerated motion, and the body needed sufficient protection to prevent being crushed to death by the acceleration.
+
+Next, the warship pilot began pointing and gesturing on the holographic panel in the air, then pushed the engine to accelerate, and finally pressed the spatial jump button.
+
+The warship flew by rapidly like light.
+
+Next, the scene switched to space, where hundreds and thousands of our warships gathered, with the enemy fleet in front.
+
+Seeing this, the enemy fleet immediately began charging their weapons and opening their energy shields.
+
+But their action was still a step too slow, as those warships had already begun charging their weapons while jumping.
+
+After arriving at the destination of the spatial jump, they immediately launched a surprise attack.
+
+One could see that the enemy warships' energy shields had not yet reached maximum power when the kinetic energy of the attack penetrated the shields.
+
+One after another, warships exploded, becoming space debris.
+
+Ultimately, due to the enemy being outnumbered, our fleet achieved victory.
+
+The final scene was the command headquarters commander presenting awards and medals to the warship pilot who had achieved the most outstanding military 
+
+Merits
+
+.
+
+At this moment, Li Bufan's heart was overflowing.
+
+Don't underestimate this 30-second special effects video, a movie could be filmed from this, guaranteed to be a box office hit.
+
+Suppressing the excitement in his heart, Li Bufan looked at the special effects production video that had just finished loading on the desktop, to see how this 30-second special effect was made.
+
+It must be said that the simulation video produced by alpha was indeed very realistic, just like actual operation on a PC.
+
+Li Bufan skipped through a few segments and felt that this complete video of making the special effects had no problems and was very satisfied.
+
+Next, Li Bufan uploaded the 30-second special effects video to the special effects department group he had previously set up, and attached a message.
+
+"Hello everyone in the special effects department, I am Li Bufan.
+
+This video was produced using our Aurora Special Effects software.
+
+I hope this video can ignite everyone's enthusiasm for Aurora Special Effects, thank you everyone."
+
+Immediately, the group was in an uproar, everyone felt incredible.
+
+They were all asking if it was true or false, saying that this Star Wars scene was too realistic, it simply crushed Hollywood's special effects.
+
+After Li Bufan repeatedly guaranteed that it could be entirely produced by Aurora Special Effects software, everyone's enthusiasm soared, and they had no resistance at all to joining the special effects department, they were very excited.
+
+However, there were a few people who thought these special effects were really too good.
+
+They couldn't help but casually share it on their short video social platforms.
+
+And they secretly gloated, wondering how many likes and good reviews they would get.
+
+Just then, alpha appeared on the phone and began to tell Li Bufan that someone had just leaked the video and it was already circulating on the internet.
+
+Seeing this, Li Bufan was a little angry at first.
+
+However, thinking that he hadn't told them not to spread it, and that this video was meant for promotion anyway, he had to let it go and act as if nothing had happened.
+
+On some short video social platforms, a few people initially scrolled past this special effects video.
+
+They were immediately amazed, so one by one they reposted and shared it.
+
+Just like that, by the afternoon, this video had not only entered the trending topics on short video social platforms but also entered the trending searches on Weibo.
+
+When people entered these social platforms, they could see tags like #StarWars #30SecondSpecialEffects everywhere.
+
+After clicking, it would be the 30 seconds of special effects that Li Bufan had sent to the group.
+
+Below this video, everyone stopped to leave messages.
+
+"OMG, which Hollywood movie trailer is this, it's too good-looking, does anyone know when it will be released?"
+
+"Do you think this could be something that actually happened in the universe, detected by a probe, and then revealed by a Scientist?"
+
+"The person upstairs, saying that is truly terrifying. Doesn't that mean Aliens are not far from us?"
+
+"Do you think this could be a brand new sequel to 《Star Wars》 or 《Star Trek》?"
+
+"The person upstairs, thinking too much, these old film and television dramas cannot be changed just like that, after all, the magnitude of this change is too great, isn't it?"
+
+"Don't you think this video is too realistic? Anyway, I know that even the industry's top special effects team, Industrial Light & Magic, cannot produce this level.
+
+This is simply going to lead a brand new era of special effects, it simply crushes Hollywood special effects, friends, isn't it?"
+
+"Aliens are coming, the end of the world is coming. Believe in me, and you will have eternal life."
+
+"Is the person upstairs stupid? It's the 21st century now, and you're still so childish, it's simply a joy for mentally challenged children."
+
+"Quickly go see, Hollywood just confirmed that they did not produce this video."
+
+"Wow, that's really the case. Then it's a bit incredible and a bit bizarre."
+
+......
+
+In the afternoon, Li Bufan was also very curious, wondering what kind of reaction this video would cause.
+
+After opening Weibo, he saw that the top few trending searches were almost all related to this special effect.
+
+Clicking on one of the shared video links, there was a dense discussion area below, where everyone was discussing the various incredible aspects of these special effects.
+
+However, he saw that many people were saying it was a real scene, a precursor to the arrival of Aliens.
+
+And it received a lot of agreement and likes, which made Li Bufan very speechless.
+
+Li Bufan felt that some intervention was needed, if it continued to spread like this, it would become an unsolved mystery.
