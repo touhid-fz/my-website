@@ -1,0 +1,183 @@
+Chapter 32 Artificial Intelligence Predicts New Materials
+
+
+
+Three days ago, Li Bufan informed Bu Changzhuo and asked him to contact the school.
+
+He was to say that many of the senior executives at Zhi Gao Software are from Jiang City, including several of our founders, who graduated from Jiangcheng University.
+
+Therefore, to thank our alma mater, we would like to donate 100 million us dollars to the school to improve the research environment and raise the living standards of the students and faculty.
+
+However, we hope to borrow some equipment from the Jiangcheng University laboratory for just one week.
+
+At that time, the Director of the Alumni Relations Office, who was the contact person for Bu Changzhuo, was overjoyed when he heard about the donation.
+
+Because this represented his achievement, he would be praised for it, and perhaps his position could even be promoted.
+
+However, when he later heard that they needed to borrow equipment and instruments from the Jiangcheng laboratory, he looked bitter because he did not have the authority in that area.
+
+Helplessly, he declined Bu Changzhuo's kind offer and stated that if it was truly urgent, they could contact the Principal.
+
+Bu Changzhuo was also helpless after hearing this, but ultimately still stated that they would donate the 100 million us dollars.
+
+When Li Bufan learned of this, he also found it amusing; after donating so much money, borrowing the laboratory for a week was still not allowed.
+
+However, he thought that it might not be impossible, but rather that the person he spoke to did not have the authority to decide on laboratory matters.
+
+Therefore, Li Bufan got the Principal's phone number and personally called the Principal.
+
+......
+
+“Beep beep beep...”
+
+“Huh, who's calling me? Sigh, it's already summer vacation, can't a person have some peace?”
+
+The Principal was in his office processing some documents, as well as dealing with student information for the upcoming semester and approving documents like applications for national student aid.
+
+The Principal was very confused when he heard the phone ring, but after thinking for a moment, he answered it.
+
+“Hello, who is this? Is there something you need?”
+
+“Hello, Principal, I apologize for disturbing you. I am a recent graduate from Jiangcheng University this year, named Li Bufan, and I am the Chairman and founder of Zhi Gao Software. I am calling you today because I would like to ask for your help with something, I wonder if it is possible.”
+
+“Oh? So you are the student who founded Zhi Gao Software, very good. I also know about the 10 billion us dollar donation you made before.
+
+Young man, you did the right thing. There are fewer and fewer businessmen like you who care about ordinary people now. And you earned the money from foreigners, which is quite remarkable, something I admit I cannot compare to.”
+
+“Principal, you are too kind. This is thanks to your excellent guidance, Principal, and the knowledge the teachers at Jiangcheng University taught me. And helping the people of China is an obligation and responsibility that every person of vision among us should undertake.”
+
+“Haha, Xiao Li, I like what you said. By the way, tell me, what is it? What kind of help do you need from me?
+
+However, let me say this first, if it's about some relative of yours wanting to come to our school and you're calling to pull some strings or something, I will not agree.”
+
+“Principal, you worry too much. As for this matter, how should I put it, it's somewhat of a dream from my university days.
+
+Actually, during my time at university, besides my major, I also dabbled in other subjects, such as life sciences, chemistry, physics, materials science, and so on. And as you know, our company can be said to be globally leading in artificial intelligence.
+
+Just recently, our company tried to use computer technology to simulate the field of materials science to see if we could find new materials.
+
+Unexpectedly, it was indeed simulated on the computer, but a clever housewife cannot cook without rice; our laboratory building is still under construction.
+
+If these things only remain in the realm of electronic documents, it would be too much of a waste, so I boldly ask to borrow the materials laboratory from you, Principal, for a week to conduct some experiments on preparing new materials.
+
+I wonder, esteemed Principal, if you can grant this request of mine?”
+
+“So that's how it is. According to the rules, since you have already graduated, you cannot return to the school and use the school's equipment.
+
+However, this can be considered student entrepreneurship, and the school is quite supportive of such situations and will provide some assistance. It's not impossible for you to use it, but there are a few things to remember.”
+
+“Principal, thank you. Please tell me, I will definitely abide by them.”
+
+“First, in the laboratory, you must not disturb others conducting experiments. Second, when performing experiments in the laboratory, you need to comply with the laboratory code of conduct, which I assume you should be aware of, such as not causing damage, otherwise compensating according to the price, etc. Finally, you must not take any equipment or instruments out of the laboratory. Are these points acceptable?”
+
+“Hmm, Principal. First of all, the first two points are completely acceptable. But for the third point, if I successfully prepare a certain new material and want to keep it, what should I do?”
+
+“Hmm, let me think. How about this, since what you want to take away at most are some materials, our laboratory does allow for this. However, you will need to replenish the materials and equipment consumed during the experiments afterwards, I wonder if you agree to this point?”
+
+“Hmm, thank you, Principal, this point is completely fine. By the way, our company specifically contacted the school two days ago, but the person who answered the phone at the time said the laboratory could not be borrowed.
+
+However, we still donated 100 million us dollars to the school to improve the research environment and raise the living standards of the students and faculty. I think this 100 million should be enough to cover all the consumption, right?”
+
+“Haha, no wonder I was wondering how 100 million us dollars was credited a few days ago, I was puzzled at the time, so that's what happened.
+
+You good young man, you actually dared to bribe the school, haha. With this money, covering consumption and such is certainly not a problem. And, we can purchase more equipment and give the teachers and students some benefits.”
+
+“Hehe. Then thank you, Principal. Can I come starting tomorrow for one week?”
+
+“Hmm, yes, that's fine. Afterwards, I will have my subordinates enter your information into the school's access control and the relevant laboratory access control systems, giving you one week of valid access. Is that okay?”
+
+“Hmm, yes, that's great, thank you, Principal. I am very grateful to you, you have helped me a great deal.”
+
+“It's nothing. I also hope the school can produce more outstanding students like you, then I, as the Principal, will also have something to be proud of.”
+
+“Yes, yes, it will happen. Our company will increase its sponsorship to Jiangcheng University in the future, you can rest assured on that.”
+
+“Okay, then goodbye.”
+
+“Alright, Principal, you're busy, goodbye.”
+
+......
+
+Li Bufan began a seven-day campus life. During these seven days, Li Bufan basically relied on food bought in the morning, such as bread, milk, coffee, compressed biscuits, etc.
+
+Then he worked hard for a week straight, and on the last day, he finally replicated the experimental results of the 28th scientific research data.
+
+......
+
+Now, with only 16 hours left until the task deadline, Li Bufan organized the photos, physical objects, and a series of data, and then instructed alpha to start filling out the report according to the general format.
+
+This general paper format typically includes: Abstract, Background Introduction, Related Work, Introduction to Prerequisite Knowledge, Experimental Preparation, Experimental Equipment Setup, Experimental Process, Experimental Results, Conclusion, and other sections.
+
+Since alpha had already compared and integrated most of the content based on the scientific data and Li Bufan's actual operations, it formed Li Bufan's scientific research achievements.
+
+Finally, Li Bufan would make some modifications and refinements, and the paper was thus written.
+
+Within the remaining 3 hours, Li Bufan packaged the previously written paper on artificial intelligence and the 28 papers written based on the scientific research data, and sent 15 papers to Science and 14 papers to Nature respectively.
+
+Next, Li Bufan just needed to wait patiently, believing that it wouldn't be long before these papers would be accepted and published.
+
+And Li Bufan also knew that, in order to save time, he had actually “plagiarized” 28 scientific research achievements.
+
+However, in the academic community, there are generally precedents for simultaneous creation, meaning that if multiple research institutions achieve the same or similar results within a few years, everyone will consider this normal.
+
+And to justify the “lie” he told the Principal during their conversation about using software to simulate and complete the prediction and inference of new materials, Li Bufan specifically asked alpha about this matter.
+
+“Master, you are right. Most of these new materials can indeed be inferred through computer simulation, so what you said at the time can be considered the truth.”
+
+Li Bufan was stunned, he didn't expect that what he said casually would actually become reality.
+
+Li Bufan thought that if it was true, then he could have a massive number of new material patents in the future, and if those people wanted to conduct commercial activities in the future, wouldn't they still have to pay him money?
+
+Thinking of this, Li Bufan was excited for a moment, and then instructed alpha.
+
+“If that's the case, then you should create this software and then simulate those 28 new materials using the computer.
+
+Afterwards, send an email to the editors of Science and Nature, saying that I predicted the new materials using a brand-new computer simulation method and successfully prepared them through experiments.”
+
+“Yes, Master. The software is completed, and the simulation processes for the 28 new materials have all been exported. Do you want to check them?”
+
+“Oh? That fast? Let me see. Good heavens, the derivation process for one new material alone is 273 pages, so much. Hmm, the formula derivation is so rigorous and complicated, but that's good, it will make others study for a long time and still not figure out anything.
+
+alpha, you did a great job. When you're free, you can help me derive other new materials, especially those with potential high value.”
+
+“As you command, Master!”
+
+Just like that, Li Bufan submitted 29 papers within the task deadline, but he didn't know if they would be accepted by the editors, which made Li Bufan very expectant.
+
+At the same time, since these new materials have been proven effective, the patents must be held in his own hands.
+
+As for those research institutions, Li Bufan had to say sorry, it was their fault for hiding things, it had nothing to do with him. And his public release was beneficial to the progress of Human science and technology, and conducive to the advancement of civilization.
+
+The company's legal department suddenly received dozens of emails from the Chairman, introducing his scientific research achievements, and even including detailed processes for preparing various materials in the Jiangcheng University laboratory, which were very comprehensive.
+
+Finally, Li Bufan instructed the legal department to register the patents in China and international patents in his personal name, and to do it quickly.
+
+The legal department immediately started working overtime. Everyone was very curious, but when they heard from somewhere that the Chairman was a genius, they became very excited.
+
+Ultimately, everyone worked all day, completed all the patent application documents and materials, and officially submitted them to the relevant departments and international patent agencies.
+
+......
+
+Meanwhile, at the headquarters of Science and Nature journals, two editors successively saw over a dozen emails appear in their inboxes all at once.
+
+Initially, the Editor-in-chief of Science was very surprised, thinking it was likely spam.
+
+However, when he saw over a dozen emails that were all paper submissions with the same author name, he was very confused.
+
+Opening one, he thought, hmm, it seems well written, it's actually a new type of alloy, corrosion-resistant and high-temperature resistant, and lightweight, good, very interesting.
+
+Looking at this one, hmm, it's another new metallic material, with low resistance and high conductivity characteristics, interesting, interesting.
+
+And, let me see, hmm, why is it still a new material, but this time it's an allotrope of the carbon element family, also very interesting.
+
+......
+
+Good heavens, except for one article revealing Smart Mutual Translation in the field of artificial intelligence, all the others are breakthrough advancements in new materials.
+
+This Chinese person, named Fan Li, isn't that Li Bufan, the Chairman of Zhi Gao Software?
+
+Just a few days ago, I was listening to my colleagues discussing that the crown of the artificial intelligence industry might go to that company located in China.
+
+I didn't expect him to actually proactively reveal Smart Mutual Translation, good, this spirit of sharing for the sake of science is very much worth everyone learning from.
+
+Oh yes, I should contact the other editors, arrange for a quick review, and then adjust the layout for the next issue of Science.
